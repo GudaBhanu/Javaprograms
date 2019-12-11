@@ -1,4 +1,4 @@
-public class Sample{
+public class totrigger{
 	public static void main(String[] args)
 {
 		
